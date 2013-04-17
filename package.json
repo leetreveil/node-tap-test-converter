@@ -1,0 +1,15 @@
+{
+  "name": "tap-test-converter",
+  "version": "0.0.0",
+  "description": "Takes a test result object and converts it into TAP output",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": "",
+  "author": "Lee Treveil",
+  "license": "MIT",
+  "dependencies": {
+    "tap": "~0.4.1"
+  }
+}
